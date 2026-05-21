@@ -91,4 +91,4 @@ CREATE TABLE runner_details (
    ```bash
    python3 main.py
    ```
-   Hệ thống sẽ tự động quét cơ sở dữ liệu. Nếu phát hiện bảng dữ liệu chưa có tên vận động viên, hệ thống sẽ tự động xóa bảng cũ và tái tạo (re-generate) toàn bộ dữ liệu mới kèm tên Tiếng Việt.
+   Hệ thống sẽ tự động quét cơ sở dữ liệu. Nếu phát hiện bảng dữ liệu chưa có tên vận động viên, hệ thống sẽ tự động xóa bảng cũ và re-generate toàn bộ dữ liệu mới.
