@@ -1,7 +1,5 @@
 # Techcombank HCMC Marathon 2025 - Data Analysis
 
-![Marathon Dashboard](/Users/brooks/.gemini/antigravity-ide/brain/47f848a5-b652-403c-8c01-ebc054cd449f/marathon_dashboard_1779337564446.png)
-
 Hệ thống lưu trữ, phân tích và tra cứu thành tích vận động viên giải Techcombank HCMC Marathon 2025. Dự án được xây dựng với kiến trúc chặt chẽ sử dụng Python và cơ sở dữ liệu MySQL, áp dụng các thuật toán chuẩn xác để sinh và xử lý dữ liệu.
 
 ## Các Tính Năng Cốt Lõi
